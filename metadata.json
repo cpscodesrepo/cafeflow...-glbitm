@@ -1,0 +1,6 @@
+{
+  "name": "CafeFlow - G.L. Bajaj Canteen Token Management",
+  "description": "Student-friendly campus cafe token management and live tracking system for G.L. Bajaj Institute of Technology and Management, Greater Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
